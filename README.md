@@ -6,6 +6,7 @@
 ---
 
 作業表模板：[點我](https://docs.google.com/spreadsheets/d/1T1piWWBZ5fCFXxh92T587GFt_Fab2fYujdlZ8L7hHcE/edit?usp=sharing)
+完整資料夾：[點我](https://drive.google.com/drive/folders/1oy7Lmqp3sRBSGzASSdALz-ncIrt9TvMg?usp=share_link)
 
 ## 作業表使用說明
 
