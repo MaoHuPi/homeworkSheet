@@ -1,5 +1,5 @@
-# homeworkSheet
-方便管理及查找的google sheet作業表
+# sssHomeworkList
+Super Spreadsheets Homework List | 方便管理及查找的google sheet作業表
 
 > 2023 © MaoHuPi
 
